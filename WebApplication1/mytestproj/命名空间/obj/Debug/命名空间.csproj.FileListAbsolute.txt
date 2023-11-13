@@ -1,0 +1,11 @@
+D:\my-project\WebApplication1\mytestproj\命名空间\bin\Debug\命名空间.exe.config
+D:\my-project\WebApplication1\mytestproj\命名空间\bin\Debug\命名空间.exe
+D:\my-project\WebApplication1\mytestproj\命名空间\bin\Debug\命名空间.pdb
+D:\my-project\WebApplication1\mytestproj\命名空间\bin\Debug\class练习.exe
+D:\my-project\WebApplication1\mytestproj\命名空间\bin\Debug\class练习.pdb
+D:\my-project\WebApplication1\mytestproj\命名空间\bin\Debug\class练习.exe.config
+D:\my-project\WebApplication1\mytestproj\命名空间\obj\Debug\命名空间.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\命名空间\obj\Debug\命名空间.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\命名空间\obj\Debug\命名空间.csproj.CopyComplete
+D:\my-project\WebApplication1\mytestproj\命名空间\obj\Debug\命名空间.exe
+D:\my-project\WebApplication1\mytestproj\命名空间\obj\Debug\命名空间.pdb

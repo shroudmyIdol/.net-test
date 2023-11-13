@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\for循环练习\bin\Debug\for循环练习.exe.config
+D:\my-project\WebApplication1\mytestproj\for循环练习\bin\Debug\for循环练习.exe
+D:\my-project\WebApplication1\mytestproj\for循环练习\bin\Debug\for循环练习.pdb
+D:\my-project\WebApplication1\mytestproj\for循环练习\obj\Debug\for循环练习.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\for循环练习\obj\Debug\for循环练习.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\for循环练习\obj\Debug\for循环练习.exe
+D:\my-project\WebApplication1\mytestproj\for循环练习\obj\Debug\for循环练习.pdb

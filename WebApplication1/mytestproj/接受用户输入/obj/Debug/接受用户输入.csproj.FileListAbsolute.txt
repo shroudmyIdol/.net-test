@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\接受用户输入\bin\Debug\接受用户输入.exe.config
+D:\my-project\WebApplication1\mytestproj\接受用户输入\bin\Debug\接受用户输入.exe
+D:\my-project\WebApplication1\mytestproj\接受用户输入\bin\Debug\接受用户输入.pdb
+D:\my-project\WebApplication1\mytestproj\接受用户输入\obj\Debug\接受用户输入.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\接受用户输入\obj\Debug\接受用户输入.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\接受用户输入\obj\Debug\接受用户输入.exe
+D:\my-project\WebApplication1\mytestproj\接受用户输入\obj\Debug\接受用户输入.pdb

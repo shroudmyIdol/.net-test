@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\try-catch尝试\bin\Debug\try-catch尝试.exe.config
+D:\my-project\WebApplication1\mytestproj\try-catch尝试\bin\Debug\try-catch尝试.exe
+D:\my-project\WebApplication1\mytestproj\try-catch尝试\bin\Debug\try-catch尝试.pdb
+D:\my-project\WebApplication1\mytestproj\try-catch尝试\obj\Debug\try-catch尝试.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\try-catch尝试\obj\Debug\try-catch尝试.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\try-catch尝试\obj\Debug\try-catch尝试.exe
+D:\my-project\WebApplication1\mytestproj\try-catch尝试\obj\Debug\try-catch尝试.pdb

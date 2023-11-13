@@ -1,0 +1,13 @@
+D:\my-project\WebApplication1\mytestproj\mytestproj\bin\Debug\netcoreapp2.1\mytestproj.deps.json
+D:\my-project\WebApplication1\mytestproj\mytestproj\bin\Debug\netcoreapp2.1\mytestproj.runtimeconfig.json
+D:\my-project\WebApplication1\mytestproj\mytestproj\bin\Debug\netcoreapp2.1\mytestproj.runtimeconfig.dev.json
+D:\my-project\WebApplication1\mytestproj\mytestproj\bin\Debug\netcoreapp2.1\mytestproj.dll
+D:\my-project\WebApplication1\mytestproj\mytestproj\bin\Debug\netcoreapp2.1\mytestproj.pdb
+D:\my-project\WebApplication1\mytestproj\mytestproj\obj\Debug\netcoreapp2.1\mytestproj.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\mytestproj\obj\Debug\netcoreapp2.1\mytestproj.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-project\WebApplication1\mytestproj\mytestproj\obj\Debug\netcoreapp2.1\mytestproj.AssemblyInfoInputs.cache
+D:\my-project\WebApplication1\mytestproj\mytestproj\obj\Debug\netcoreapp2.1\mytestproj.AssemblyInfo.cs
+D:\my-project\WebApplication1\mytestproj\mytestproj\obj\Debug\netcoreapp2.1\mytestproj.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\mytestproj\obj\Debug\netcoreapp2.1\mytestproj.dll
+D:\my-project\WebApplication1\mytestproj\mytestproj\obj\Debug\netcoreapp2.1\mytestproj.pdb
+D:\my-project\WebApplication1\mytestproj\mytestproj\obj\Debug\netcoreapp2.1\mytestproj.genruntimeconfig.cache

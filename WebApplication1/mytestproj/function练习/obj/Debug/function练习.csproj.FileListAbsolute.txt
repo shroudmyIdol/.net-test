@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\function练习\bin\Debug\function练习.exe.config
+D:\my-project\WebApplication1\mytestproj\function练习\bin\Debug\function练习.exe
+D:\my-project\WebApplication1\mytestproj\function练习\bin\Debug\function练习.pdb
+D:\my-project\WebApplication1\mytestproj\function练习\obj\Debug\function练习.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\function练习\obj\Debug\function练习.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\function练习\obj\Debug\function练习.exe
+D:\my-project\WebApplication1\mytestproj\function练习\obj\Debug\function练习.pdb

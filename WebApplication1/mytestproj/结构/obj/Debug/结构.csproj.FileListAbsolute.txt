@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\结构\bin\Debug\结构.exe.config
+D:\my-project\WebApplication1\mytestproj\结构\bin\Debug\结构.exe
+D:\my-project\WebApplication1\mytestproj\结构\bin\Debug\结构.pdb
+D:\my-project\WebApplication1\mytestproj\结构\obj\Debug\结构.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\结构\obj\Debug\结构.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\结构\obj\Debug\结构.exe
+D:\my-project\WebApplication1\mytestproj\结构\obj\Debug\结构.pdb

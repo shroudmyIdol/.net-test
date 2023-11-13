@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\function\bin\Debug\function.exe.config
+D:\my-project\WebApplication1\mytestproj\function\bin\Debug\function.exe
+D:\my-project\WebApplication1\mytestproj\function\bin\Debug\function.pdb
+D:\my-project\WebApplication1\mytestproj\function\obj\Debug\function.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\function\obj\Debug\function.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\function\obj\Debug\function.exe
+D:\my-project\WebApplication1\mytestproj\function\obj\Debug\function.pdb

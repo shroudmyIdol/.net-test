@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\字符串\bin\Debug\字符串.exe.config
+D:\my-project\WebApplication1\mytestproj\字符串\bin\Debug\字符串.exe
+D:\my-project\WebApplication1\mytestproj\字符串\bin\Debug\字符串.pdb
+D:\my-project\WebApplication1\mytestproj\字符串\obj\Debug\字符串.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\字符串\obj\Debug\字符串.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\字符串\obj\Debug\字符串.exe
+D:\my-project\WebApplication1\mytestproj\字符串\obj\Debug\字符串.pdb

@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\两道练习题\bin\Debug\两道练习题.exe.config
+D:\my-project\WebApplication1\mytestproj\两道练习题\bin\Debug\两道练习题.exe
+D:\my-project\WebApplication1\mytestproj\两道练习题\bin\Debug\两道练习题.pdb
+D:\my-project\WebApplication1\mytestproj\两道练习题\obj\Debug\两道练习题.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\两道练习题\obj\Debug\两道练习题.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\两道练习题\obj\Debug\两道练习题.exe
+D:\my-project\WebApplication1\mytestproj\两道练习题\obj\Debug\两道练习题.pdb

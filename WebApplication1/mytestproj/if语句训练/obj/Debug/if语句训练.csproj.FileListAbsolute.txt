@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\if语句训练\bin\Debug\if语句训练.exe.config
+D:\my-project\WebApplication1\mytestproj\if语句训练\bin\Debug\if语句训练.exe
+D:\my-project\WebApplication1\mytestproj\if语句训练\bin\Debug\if语句训练.pdb
+D:\my-project\WebApplication1\mytestproj\if语句训练\obj\Debug\if语句训练.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\if语句训练\obj\Debug\if语句训练.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\if语句训练\obj\Debug\if语句训练.exe
+D:\my-project\WebApplication1\mytestproj\if语句训练\obj\Debug\if语句训练.pdb

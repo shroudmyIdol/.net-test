@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\枚举\bin\Debug\枚举.exe.config
+D:\my-project\WebApplication1\mytestproj\枚举\bin\Debug\枚举.exe
+D:\my-project\WebApplication1\mytestproj\枚举\bin\Debug\枚举.pdb
+D:\my-project\WebApplication1\mytestproj\枚举\obj\Debug\枚举.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\枚举\obj\Debug\枚举.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\枚举\obj\Debug\枚举.exe
+D:\my-project\WebApplication1\mytestproj\枚举\obj\Debug\枚举.pdb

@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\静态类和非静态类\bin\Debug\静态类和非静态类.exe.config
+D:\my-project\WebApplication1\mytestproj\静态类和非静态类\bin\Debug\静态类和非静态类.exe
+D:\my-project\WebApplication1\mytestproj\静态类和非静态类\bin\Debug\静态类和非静态类.pdb
+D:\my-project\WebApplication1\mytestproj\静态类和非静态类\obj\Debug\静态类和非静态类.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\静态类和非静态类\obj\Debug\静态类和非静态类.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\静态类和非静态类\obj\Debug\静态类和非静态类.exe
+D:\my-project\WebApplication1\mytestproj\静态类和非静态类\obj\Debug\静态类和非静态类.pdb

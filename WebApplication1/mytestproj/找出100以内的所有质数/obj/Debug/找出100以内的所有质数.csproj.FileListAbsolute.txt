@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\找出100以内的所有质数\bin\Debug\找出100以内的所有质数.exe.config
+D:\my-project\WebApplication1\mytestproj\找出100以内的所有质数\bin\Debug\找出100以内的所有质数.exe
+D:\my-project\WebApplication1\mytestproj\找出100以内的所有质数\bin\Debug\找出100以内的所有质数.pdb
+D:\my-project\WebApplication1\mytestproj\找出100以内的所有质数\obj\Debug\找出100以内的所有质数.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\找出100以内的所有质数\obj\Debug\找出100以内的所有质数.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\找出100以内的所有质数\obj\Debug\找出100以内的所有质数.exe
+D:\my-project\WebApplication1\mytestproj\找出100以内的所有质数\obj\Debug\找出100以内的所有质数.pdb

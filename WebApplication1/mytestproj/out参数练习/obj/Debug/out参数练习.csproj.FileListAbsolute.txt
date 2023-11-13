@@ -1,0 +1,7 @@
+D:\my-project\WebApplication1\mytestproj\out参数练习\bin\Debug\out参数练习.exe.config
+D:\my-project\WebApplication1\mytestproj\out参数练习\bin\Debug\out参数练习.exe
+D:\my-project\WebApplication1\mytestproj\out参数练习\bin\Debug\out参数练习.pdb
+D:\my-project\WebApplication1\mytestproj\out参数练习\obj\Debug\out参数练习.csproj.AssemblyReference.cache
+D:\my-project\WebApplication1\mytestproj\out参数练习\obj\Debug\out参数练习.csproj.CoreCompileInputs.cache
+D:\my-project\WebApplication1\mytestproj\out参数练习\obj\Debug\out参数练习.exe
+D:\my-project\WebApplication1\mytestproj\out参数练习\obj\Debug\out参数练习.pdb
